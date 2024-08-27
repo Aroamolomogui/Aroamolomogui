@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'M mIGUEL 👋
 
-<!--
-**Aroamolomogui/Aroamolomogui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![me](https://github.com/user-attachments/assets/b0f8a12b-4b70-4a66-8617-9bb3ba884b9e)
 
-Here are some ideas to get you started:
+```javascript
+const Aroamolomogui = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML5, CSS3, SASS],
+  tools: [React, Nodejs, MYSQL, Styled-Components, VISUAL STUDIO CODE, ChatGPT ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+challenge: "I'm doing a personal project as a developer and practicing the scrum hat"
+}
+```
+
 -->
